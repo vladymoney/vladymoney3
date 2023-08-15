@@ -1,4 +1,3 @@
-# vladymoney3
 <div align="center">
   <img src="project_logo.png" alt="Project Logo">
 </div>
@@ -13,7 +12,7 @@
 [![HTML](https://img.shields.io/badge/HTML-5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-Short description of your project.
+**Short description of your project.**
 
 ## Table of Contents
 
@@ -25,7 +24,7 @@ Short description of your project.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/project.git`
+1. Clone the repository: `git clone INSERT_REPOSITORY_LINK`
 2. Navigate to the project directory: `cd project`
 3. Create a virtual environment: `python -m venv venv`
 4. Activate the virtual environment:
